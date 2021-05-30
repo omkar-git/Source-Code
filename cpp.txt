@@ -1,3 +1,4 @@
+// Coding for begineers -- Quick Tutorial -- [Part 01]  
 #include<iostream>
 using namespace std;
 
@@ -79,19 +80,7 @@ int main()
 // }
 // while (i < 0);
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+ 
     
     // ARRAY
     
@@ -121,12 +110,6 @@ int main()
     // cout<< &food<< "\n";
     // cout<<*snack1<< "\n";
     
-    
-    
-    
-    
-    
-    
-    
-    
+     
 }
+// Coding for begineers -- Quick Tutorial -- [Part 01] 
