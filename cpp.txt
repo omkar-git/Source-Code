@@ -1,0 +1,132 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+    //This is first c++ prg
+    // cout<<"Hello World";
+    //  int a = 10;
+    // float b = 10.5;
+    // double c = 10.5462;
+    // char d = 'a';
+    // string e = "Hello World, I'm String";
+    
+    // bool t = 2>1; // return 1 that means true value
+    // bool f = 3>6; // returns 0 that means false
+    
+    // cout<< a<< "\n"<< b<< "\n"<< c<< "\n"<< d<<"\n"<< e<< "\n"<< t<< "\n"<< f;
+    
+    // string s1 ="Hello ";
+    // string s2 ="Omkar!";
+    
+    // cout<< s2.size();
+    
+    // Conditions :  if  if else   if elseif else  switch  
+    
+    
+    // if(age<18)
+    // {
+    //     cout<< "You're not eligible for vote";
+    // }
+
+    // else
+    // {
+    //     cout<< "You can vote!";
+    // }
+    
+    
+    // int age =10; 
+    // switch(age)
+    // {
+    //     case 10:
+    //     cout<< "You're age is 10";
+    //     break;
+    //     case 18:
+    //     cout<< "You're age is 18";
+    //     break;
+        
+    //     case 20:
+    //     cout<< "You're age is 20";
+    //     break;
+    //   }
+    
+    // int age;
+    // cout<<"Please enter your age: ";
+    // cin>>age;
+    // cout<<"Your age is "<<age;
+    
+    
+    // // Loops
+    // int i;
+    // for(i=0; i<2; i++)
+    // {
+    //   cout<< "I'm inside the for loop"<<"\n";  
+    // }
+    
+//     // while
+//     while (i < 5) {
+//   cout << i << "\n";
+//   i++;
+// }
+    
+    // do while
+    
+//     int i = 0;
+
+// do {
+//   cout << i << "\n";
+//   i++;
+// }
+// while (i < 0);
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    // ARRAY
+    
+    // string a[3] = {"Car1", "Car2", "Car3"};
+    
+    // int i;
+    // for(i=0; i<3; i++)
+    // {
+    //     cout<< a[i]<< "\n";
+    // }
+    
+    
+    
+    //Reference
+    
+    // string food = "Pizza";
+    // string snack = food;
+    
+    // cout<< food<< "\n";
+    // cout<< snack<< "\n";
+    
+    // // & Pointer
+    
+    // string * snack1 = &food; // Pointer initialization
+    
+    // cout<<snack1<< "\n";
+    // cout<< &food<< "\n";
+    // cout<<*snack1<< "\n";
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
